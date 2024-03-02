@@ -1,0 +1,8 @@
+C:\Users\herna\source\repos\Uber_HernandezMatias\bin\Debug\Uber_HernandezMatias.exe.config
+C:\Users\herna\source\repos\Uber_HernandezMatias\bin\Debug\Uber_HernandezMatias.exe
+C:\Users\herna\source\repos\Uber_HernandezMatias\bin\Debug\Uber_HernandezMatias.pdb
+C:\Users\herna\source\repos\Uber_HernandezMatias\obj\Debug\Uber_HernandezMatias.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\Uber_HernandezMatias\obj\Debug\Uber_HernandezMatias.exe
+C:\Users\herna\source\repos\Uber_HernandezMatias\obj\Debug\Uber_HernandezMatias.pdb
+C:\Users\herna\source\repos\Uber_HernandezMatias\obj\Debug\Uber_HernandezMatias.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\Uber_HernandezMatias\obj\Debug\Uber_HernandezMatias.csproj.SuggestedBindingRedirects.cache
